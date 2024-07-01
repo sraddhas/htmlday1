@@ -1,0 +1,30 @@
+#a1{
+    text-decoration: none;
+    color: aqua;
+}
+#p1{
+   text-indent: 10% ;
+   color: burlywood;
+   
+}
+#p2{
+    color: black;
+    
+}
+#p3{
+    color: blueviolet;
+}
+h2{
+    background-color: antiquewhite;
+    color: brown;
+    text-align: center;
+}
+.grp1{
+    
+    border: 1px solid red;
+    margin: 5% 10% 30%;
+    padding: 10px 30px 40px 10px;
+}
+.grp2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
